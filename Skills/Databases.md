@@ -1,94 +1,94 @@
 ## Databases
 
 - Theory and concepts
-  - Data types: k
-  - Performance tuning:
-  - Migrations: k
-  - Schema versioning: 
-  - Backup and recovery: u
-  - Database scalability: k
-  - Relational databases: e
-  - Key-value store: e
-  - Tuple store: 
-  - Graph databases: e
-  - Object databases: u
-  - Column databases: u
-  - Navigational databases:
-  - Hierarchical databases:
-  - In-memory databases:
-  - Inverted index:
-  - Data control language (DCL): k
-  - Data definition language (DDL): u
-  - Data manipulation language (DML): k
-  - Data query language (DQL): k
+  - Data types: 🎓 known
+  - Performance tuning
+  - Migrations: 🎓 known
+  - Schema versioning
+  - Backup and recovery: 🖐️ used
+  - Database scalability: 🎓 known
+  - Relational databases: 🙋 explained
+  - Key-value store: 🙋 explained
+  - Tuple store
+  - Graph databases: 🙋 explained
+  - Object databases: 🖐️ used
+  - Column databases: 🖐️ used
+  - Navigational databases
+  - Hierarchical databases
+  - In-memory databases
+  - Inverted index
+  - Data control language (DCL): 🎓 known
+  - Data definition language (DDL): 🖐️ used
+  - Data manipulation language (DML): 🎓 known
+  - Data query language (DQL): 🎓 known
 - Relational
-  - Entity-Relationship Diagram: u
-  - Normal forms: k
-  - Indexing: k
-  - Primary keys: e
-  - Foreign keys: e
-  - Transactions: e
-  - Views: k
-  - Subqueries: u
-  - Stored procedures: u
-  - SQL functions: e
-  - Materialized views: h
-  - Replications: h
-  - Virtualization: k
+  - Entity-Relationship Diagram: 🖐️ used
+  - Normal forms: 🎓 known
+  - Indexing: 🎓 known
+  - Primary keys: 🙋 explained
+  - Foreign keys: 🙋 explained
+  - Transactions: 🙋 explained
+  - Views: 🎓 known
+  - Subqueries: 🖐️ used
+  - Stored procedures: 🖐️ used
+  - SQL functions: 🙋 explained
+  - Materialized views: 👂 heard
+  - Replications: 👂 heard
+  - Virtualization: 🎓 known
 - SQL
-  - `SELECT`: e
-  - `INSERT`: e
-  - `UPDATE`: e
-  - `DELETE`: e
-  - `LIMIT`: u
-  - `OFFSET`: u
-  - `ORDER BY`: e
-  - `GROUP BY`: e
-  - `HAVING`: u
-  - `EXISTS`: e
-  - `JOIN`: e
-  - `INNER JOIN`: e
-  - `LEFT JOIN`: e
-  - `RIGHT JOIN`: e
-  - `UNION`: e
-  - `DISTINCT`: u
-  - `WHERE`: e
-  - `LIKE`: k
-  - `IN`: e
-  - `BETWEEN`: k
-  - `CREATE TABLE`: e
-  - `ALTER TABLE`: e
-  - `DROP TABLE`: e
-  - `PRIMARY KEY`: e
-  - `FOREIGN KEY`: e
-  - `CHECK`: e
-  - `DEFAULT`: e
-  - `INDEX`: e
-  - `UNIQUE`: e
-  - `GRANT`: k
-  - `REVOKE`: k
-  - `DENY`: k
-  - `EXPLAIN`: k
+  - `SELECT`: 🙋 explained
+  - `INSERT`: 🙋 explained
+  - `UPDATE`: 🙋 explained
+  - `DELETE`: 🙋 explained
+  - `LIMIT`: 🖐️ used
+  - `OFFSET`: 🖐️ used
+  - `ORDER BY`: 🙋 explained
+  - `GROUP BY`: 🙋 explained
+  - `HAVING`: 🖐️ used
+  - `EXISTS`: 🙋 explained
+  - `JOIN`: 🙋 explained
+  - `INNER JOIN`: 🙋 explained
+  - `LEFT JOIN`: 🙋 explained
+  - `RIGHT JOIN`: 🙋 explained
+  - `UNION`: 🙋 explained
+  - `DISTINCT`: 🖐️ used
+  - `WHERE`: 🙋 explained
+  - `LIKE`: 🎓 known
+  - `IN`: 🙋 explained
+  - `BETWEEN`: 🎓 known
+  - `CREATE TABLE`: 🙋 explained
+  - `ALTER TABLE`: 🙋 explained
+  - `DROP TABLE`: 🙋 explained
+  - `PRIMARY KEY`: 🙋 explained
+  - `FOREIGN KEY`: 🙋 explained
+  - `CHECK`: 🙋 explained
+  - `DEFAULT`: 🙋 explained
+  - `INDEX`: 🙋 explained
+  - `UNIQUE`: 🙋 explained
+  - `GRANT`: 🎓 known
+  - `REVOKE`: 🎓 known
+  - `DENY`: 🎓 known
+  - `EXPLAIN`: 🎓 known
 - Engines
-  - PostgreSQL: u
-  - Oracle: u
-  - MySQL: u
-  - MariaDB:
-  - MS SQL Server:
-  - Redis:
-  - Rabbit:
-  - MongoDB: k
-  - Memcached: 
+  - PostgreSQL: 🖐️ used
+  - Oracle: 🖐️ used
+  - MySQL: 🖐️ used
+  - MariaDB
+  - MS SQL Server
+  - Redis
+  - Rabbit
+  - MongoDB: 🎓 known
+  - Memcached
   - Riak
   - DB2
-  - SQLite: u
-  - DynamoDB:
-  - Firebase: u
+  - SQLite: 🖐️ used
+  - DynamoDB
+  - Firebase: 🖐️ used
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data: k
-  - Data analysis: k
-  - AI tools: u
-  - Cloud databases: k
-  - Data Visualization: u
+  - Big data: 🎓 known
+  - Data analysis: 🎓 known
+  - AI tools: 🖐️ used
+  - Cloud databases: 🎓 known
+  - Data Visualization: 🖐️ used

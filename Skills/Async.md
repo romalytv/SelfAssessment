@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: k
-  - `try..catch`: u
-  - Non-blocking: h
-  - Async I/O: u
-  - Thread pool: u
-  - Pattern Reactor: 
-  - CAS operations:
-  - epoll:
-  - kqueue:
-  - Completion ports:
-  - Event ports:
-  - libuv:
-  - Race conditions: k
-  - Dead locks: u
-  - Live locks: k
-  - Concurrent programming: e
-  - Parallel programming: e
-  - Actor Model: 
-  - Thread: e
-  - Process: e
+  - Event loop: 🎓 known
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 👂 heard
+  - Async I/O: 🖐️ used
+  - Thread pool: 🖐️ used
+  - Pattern Reactor
+  - CAS operations
+  - epoll
+  - kqueue
+  - Completion ports
+  - Event ports
+  - libuv
+  - Race conditions: 🎓 known
+  - Dead locks: 🖐️ used
+  - Live locks: 🎓 known
+  - Concurrent programming: 🙋 explained
+  - Parallel programming: 🙋 explained
+  - Actor Model
+  - Thread: 🙋 explained
+  - Process: 🙋 explained
 - Async contracts
-  - Callbacks: u
-  - Callback-last-error-first:
-  - Thenable: 
-  - Promise: k
-  - Async/await: u
-  - Future: 
-  - Deferred: 
-  - Sync generator: k
-  - Async Generator: h
-  - Async Iterator: h
-  - Event: u
-  - Coroutine: k
-  - Goroutine: 
-  - Signal: k
-  - Stream: k
-  - Chain of responsibility: h
-  - Middleware:
-  - Locks: u
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first
+  - Thenable
+  - Promise: 🎓 known
+  - Async/await: 🖐️ used
+  - Future
+  - Deferred
+  - Sync generator: 🎓 known
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 🖐️ used
+  - Coroutine: 🎓 known
+  - Goroutine
+  - Signal: 🎓 known
+  - Stream: 🎓 known
+  - Chain of responsibility: 👂 heard
+  - Middleware
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -55,8 +55,8 @@
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore: u
-  - Mutex: u
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
