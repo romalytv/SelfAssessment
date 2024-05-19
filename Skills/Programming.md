@@ -1,199 +1,199 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Model: 🖐️ used
+  - Modeling: 🖐️ used
+  - Subject domain: 🖐️ used
+  - Algorithm: 🙋 explained
+  - Syntax: 🙋 explained
+  - Semantics: 🙋 explained
+  - Abstraction: 🙋 explained
+  - Paradigm: 🙋 explained
+  - Programm: 🙋 explained
+  - Programming paradigm: 🙋 explained
+  - Programming language: 🙋 explained
+  - Contract: 🎓 known
+  - Module: 🙋 explained
+  - Library: 🙋 explained
+  - Package: 🙋 explained
+  - Component: 🙋 explained
+  - Framework: 🙋 explained
+  - Platform: 🙋 explained
+  - Source code: 🙋 explained
+  - Object code: 🎓 known
+  - Machine code: 🙋 explained
+  - Microcode: 🎓 known
+  - Software engineering: 🙋 explained
+  - Decomposition: 🙋 explained
+  - Control flow: 🎓 known
+  - Data flow: 🖐️ used
+  - Code reuse: 🙋 explained
+  - Defensive programming: 👂 heard
+  - Don't repeat yourself (DRY): 👂 heard
+  - KISS principle: 👂 heard
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
-  - Fail-fast
+  - Value: 🙋 explained
+  - Identifier: 🙋 explained
+  - Variable: 🙋 explained
+  - Constant: 🙋 explained
+  - Scalar: 🙋 explained
+  - Literal: 🙋 explained
+  - Expression: 🙋 explained
+  - Heap: 🙋 explained
+  - Function: 🙋 explained
+  - Procedure: 🙋 explained
+  - Method: 🙋 explained
+  - Class: 🙋 explained
+  - Prototype: 🙋 explained
+  - Event: 🙋 explained
+  - Type: 🙋 explained
+  - Flag: 🙋 explained
+  - Lexical scope: 🙋 explained
+  - Code block: 🙋 explained
+  - Conditions: 🙋 explained
+  - Loops: 🙋 explained
+  - Assignment: 🙋 explained
+  - Regular expression: 🙋 explained
+  - Interface: 🙋 explained
+  - Namespaces: 👂 heard
+  - Call stack: 🙋 explained
+  - Naming conventions: 🙋 explained
+  - Coding conventions: 🙋 explained
+  - Camel case: 🙋 explained
+  - Snake case: 🙋 explained
+  - Kebab case: 🙋 explained
+  - Trailing commas: 🎓 known
+  - Return early: 🎓 known
+  - Fail-fast: 🎓 known
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
-  - Nominal typing
-  - Structural typing
-  - Explicit typing
-  - Type inference
-  - Covariance
-  - Contravariance
+  - Primitive types: 🙋 explained
+  - Reference types: 🙋 explained
+  - Type systems: 🙋 explained
+  - Strong typing: 🙋 explained
+  - Weak typing: 🙋 explained
+  - Duck typing: 🙋 explained
+  - Static typing: 🙋 explained
+  - Dynamic typing: 🙋 explained
+  - Nominal typing: 🎓 known
+  - Structural typing: 🎓 known
+  - Explicit typing: 🎓 known
+  - Type inference: 🎓 known
+  - Covariance: 👂 heard
+  - Contravariance: 👂 heard
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
-  - Recursion
+  - Signature: 🙋 explained
+  - Argument: 🙋 explained
+  - Parameter: 🙋 explained
+  - Pure function: 🙋 explained
+  - Lambda expression: 🙋 explained
+  - Side effects: 🎓 known
+  - Closure: 🙋 explained
+  - Partial application: 🎓 known
+  - Currying: 🙋 explained
+  - Higher order: 🎓 known
+  - Recursion: 🙋 explained
   - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
-  - Functor
+  - Callback: 🙋 explained
+  - Listener: 🙋 explained
+  - Composition: 🙋 explained
+  - Pipe: 🎓 known
+  - Memoize: 🙋 explained
+  - Wrapper: 🎓 known
+  - Functor: 🎓 known
   - Monad
   - Monoid
-  - Generator
-  - Coroutine
+  - Generator: 👂 heard
+  - Coroutine: 🖐️ used
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
-  - JSON5
-  - YAML
+  - Array: 🙋 explained
+  - Structure: 🙋 explained
+  - Record: 🙋 explained
+  - Enum: 🖐️ used
+  - Instance: 🙋 explained
+  - Object: 🙋 explained
+  - Collection: 🙋 explained
+  - Set: 🙋 explained
+  - Hash table: 🙋 explained
+  - Linked list: 🙋 explained
+  - Doubly list:k
+  - Unrolled list: 🎓 known
+  - Circular list: 🎓 known
+  - Queue: 🙋 explained
+  - Stack: 🙋 explained
+  - Deque: 🙋 explained
+  - Tree: 🙋 explained
+  - Graph: 🙋 explained
+  - Iterator: 🙋 explained
+  - Mutable state: 🙋 explained
+  - Immutable state: 🙋 explained
+  - Serialization: 🖐️ used
+  - String parsing: 🖐️ used
+  - JSON: 🙋 explained
+  - JSON5: 👂 heard
+  - YAML: 🙋 explained
 - Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
-  - URN
-  - URI
+  - DNS: 🙋 explained
+  - CDN: 🙋 explained
+  - CORS: 🎓 known
+  - IPv4: 🙋 explained
+  - IPv6: 🙋 explained
+  - NAT: 🙋 explained
+  - URL: 🙋 explained
+  - URN: 🎓 known
+  - URI: 🙋 explained
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
-  - Ahead-of-time compilation
-  - Transpiler
-  - Linter
+  - Compiler: 🙋 explained
+  - Just-in-time compilation: 🎓 known
+  - Ahead-of-time compilation: 🎓 known
+  - Transpiler: 🎓 known
+  - Linter: 🙋 explained
   - Polyfill
-  - Interpreter
-  - Linker
-  - Dynamic linking
-  - Static linking
-  - Runtime
-  - Virtual machine
-  - Register-based VM
-  - Stack-based VM
-  - Containerization
-  - Debugger
-  - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
-  - Kubernetes
-  - GCC
-  - LLVM
+  - Interpreter: 🙋 explained
+  - Linker: 🖐️ used
+  - Dynamic linking: 🖐️ used
+  - Static linking: 🖐️ used
+  - Runtime: 🙋 explained
+  - Virtual machine: 🙋 explained
+  - Register-based VM: 🙋 explained
+  - Stack-based VM: 🙋 explained
+  - Containerization: 🙋 explained
+  - Debugger: 🙋 explained
+  - Tracing: 🙋 explained
+  - Garbage collection: 🙋 explained
+  - Refactoring: 🙋 explained
+  - Code review: 🙋 explained
+  - Exception: 🙋 explained
+  - Unittesting: 🙋 explained
+  - git: 🙋 explained
+  - Github: 🙋 explained
+  - Docker: 🖐️ used
+  - Kubernetes: 🎓 known
+  - GCC: 🙋 explained
+  - LLVM: 🎓 known
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
+  - Magic numbers: 🙋 explained
+  - Hard code: 🙋 explained
+  - Soft code: 🙋 explained
+  - Cryptic code: 🎓 known
   - Improbability factor
-  - Accidental complexity
+  - Accidental complexity: 🎓 known
   - Action at a distance
-  - Spaghetti
+  - Spaghetti: 🙋 explained
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code: 🎓 known
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🙋 explained
   - Premature optimization
   - Micro-optimization
   - Nested loops
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
-  - Too many parameters
-  - Pass-through parameters
-  - Accumulate and fire
-  - Use switch/case
+  - Too many parameters: 🙋 explained
+  - Pass-through parameters: 🎓 known
+  - Accumulate and fire: 👂 heard
+  - Use switch/case: 🙋 explained
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -202,38 +202,38 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
-  - VJM
-  - CLR
+  - Bytecode: 🙋 explained
+  - V8: 👂 heard
+  - VJM: 🙋 explained
+  - CLR: 👂 heard
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
-  - Kernel
-  - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
-  - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
-  - Embedded OS
+  - Drivers: 🙋 explained
+  - Kernel: 🙋 explained
+  - Ring: 👂 heard
+  - Virtual memory: 🙋 explained
+  - File system: 🙋 explained
+  - Linux: 🙋 explained
+  - Unix: 🙋 explained
+  - BSD: 🙋 explained
+  - MacOS: 🙋 explained
+  - Windows: 🙋 explained
+  - Real-time OS: 🎓 known
+  - Embedded OS: 🎓 known
 - Standards
-  - ASCII
-  - Escape sequence
+  - ASCII: 🙋 explained
+  - Escape sequence: 👂 heard
   - RFC
   - IETF
   - IANA
-  - IEEE
-  - Base64
+  - IEEE: 🙋 explained
+  - Base64: 👂 heard
   - ECMA
   - ICANN
-  - ISO
+  - ISO: 🖐️ used
   - MIME
   - OWASP
-  - UTF-8
-  - W3C
+  - UTF-8: 🙋 explained
+  - W3C: 👂 heard
   - ODMG

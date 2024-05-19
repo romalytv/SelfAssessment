@@ -1,16 +1,16 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
+  - Modularity: 🙋 explained
+  - Components: 🙋 explained
+  - Directories: 🙋 explained
+  - GRASP: 🎓 known
+  - SOLID: 🙋 explained
   - GoF patterns
   - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 👂 heard
+  - Contract programming: 👂 heard
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
@@ -18,83 +18,83 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🙋 explained
+  - Quality: 🙋 explained
+  - Availability: 🙋 explained
+  - Flexibility: 🙋 explained
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
+  - Isolation between layer: 👂 heard
+  - Domain-specific language (DSL): 👂 heard
+  - System vs applied code: 👂 heard
+  - Multilayer approach: 🖐️ used
+  - Hexagonal architecture: 👂 heard
   - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Metaprogramming: 🎓 known
+  - Inversion of control (IoC): 🙋 explained
+  - Dependency injection (DI): 🙋 explained
+  - Clean architecture: 🎓 known
+  - Domain-driven design (DDD): 👂 heard
   - Pub/sub
   - Message brocker
-  - Agent
+  - Agent: 👂 heard
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ): 👂 heard
   - CQRS
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling: 🖐️ used
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X
-  - UML
+  - UML: 🙋 explained
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
-  - Load balancing
-  - Gateways
+  - Budget estimation: 🎓 known
+  - Distributed systems: 🎓 known
+  - High-intensive computing: 👂 heard
+  - Load balancing: 🎓 known
+  - Gateways: 👂 heard
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
-  - Serverless
-  - Vendor lock-in
+  - IaaS: 🎓 known
+  - PaaS: 🎓 known
+  - SaaS: 🎓 known
+  - FaaS clouds: 🎓 known
+  - Serverless: 🎓 known
+  - Vendor lock-in: 👂 heard
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
-  - Solution components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
-  - Clouds
+  - A software requirements specification (SRS): 🙋 explained
+  - Solution visions: 🎓 known
+  - Solution capabilities: 🎓 known
+  - System design: 🎓 known
+  - Process modelling: 👂 heard
+  - Data modelling: 🎓 known
+  - Solution components: 🎓 known
+  - Risk assessment: 🎓 known
+  - Non Functional Requirements (NFR): 👂 heard
+  - Clouds: 🙋 explained
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code: 🎓 known
+  - No-code: 🎓 known
   - Metric
   - Metric abuse
-  - ACID
+  - ACID: 🙋 explained
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
+  - Understanding business needs: 👂 heard
+  - Enterprise strategy: 👂 heard
+  - Integration with subsystems: 👂 heard
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
+  - Service-oriented architecture: 🖐️ used
+  - Microservices: 🖐️ used
   - Process choreography
   - Service orchestration
-  - Data warehouse
-  - Business Intelligence
+  - Data warehouse: 🎓 known
+  - Business Intelligence: 🎓 known
   - OLAP
   - OLTP
-  - Conways Law
-  - Quality assurance
+  - Conways Law: 🎓 known
+  - Quality assurance: 🎓 known
   - Engineering Hygiene
