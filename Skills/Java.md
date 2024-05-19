@@ -1,111 +1,112 @@
 ## Java
+
 - Code basics
-    - Variables: e
-    - Primitive types: e
-    - `String`: e
-    - `Object`: e
-    - Arithmetic operators: e
-    - Boolean operators: e
-    - Complex conditions: e
-    - `if/else`: e
-    - `switch`: e
-    - Arrays: e
-    - `for` loop: e
-    - `while` loop: e
-    - `do ... while` loop: e
-    - foreach loop: e
-    - `try/catch`: e
-    - Checked exceptions: e
-    - Unchecked exceptions: e
-    - Errors: e
-    - `List`: e
-    - `Set`: e
-    - `Map`: e
-    - `Collection`, `Iterable`: e
+  - Variables: e
+  - Primitive types: e
+  - `String`: e
+  - `Object`: e
+  - Arithmetic operators: e
+  - Boolean operators: e
+  - Complex conditions: e
+  - `if/else`: e
+  - `switch`: e
+  - Arrays: e
+  - `for` loop: e
+  - `while` loop: e
+  - `do ... while` loop: e
+  - foreach loop: e
+  - `try/catch`: e
+  - Checked exceptions: e
+  - Unchecked exceptions: e
+  - Errors: e
+  - `List`: e
+  - `Set`: e
+  - `Map`: e
+  - `Collection`, `Iterable`: e
 - Methods
-    - Arguments: e
-    - Return type: e
-    - Method signature: e
-    - Method overloading: u
-    - `varargs`: h
+  - Arguments: e
+  - Return type: e
+  - Method signature: e
+  - Method overloading: u
+  - `varargs`: h
 - Classes and objects
-    - Properties: e
-    - Methods: e
-    - `static`: e
-    - Constructors: e
-    - `final`: u
-    - `this`: e
-    - Initializer:e
-    - Mutable and immutable objects: e
-    - Enum classes: u
+  - Properties: e
+  - Methods: e
+  - `static`: e
+  - Constructors: e
+  - `final`: u
+  - `this`: e
+  - Initializer:e
+  - Mutable and immutable objects: e
+  - Enum classes: u
 - Class
-    - `toString()`: e
-    - `equals(), hashcode()`: e
+  - `toString()`: e
+  - `equals(), hashcode()`: e
 - Object-Oriented Programming (OOP)
-    - Abstraction: e
-    - Encapsulation: e
-    - Inheritance: e
-    - Polymorphism: e
-    - Abstract class: e
-    - Abstract method: e
-    - Interface: e
-    - `final` class: u
-    - `final` method: u
-    - `final` property: u
-    - Nested class: k
-    - Inner class: k
-    - `public`: e
-    - `private`: e
-    - `protected`: e
-    - package-private: e
-    - Cast operator: u
-    - `instanceof`: e
+  - Abstraction: e
+  - Encapsulation: e
+  - Inheritance: e
+  - Polymorphism: e
+  - Abstract class: e
+  - Abstract method: e
+  - Interface: e
+  - `final` class: u
+  - `final` method: u
+  - `final` property: u
+  - Nested class: k
+  - Inner class: k
+  - `public`: e
+  - `private`: e
+  - `protected`: e
+  - package-private: e
+  - Cast operator: u
+  - `instanceof`: e
 - Generics
-    - Class with type arguments: u
-    - Method with type arguments: u
-    - Bounded type arguments: u
-    - Type erasure: h
-    - Type inference: h
-    - Diamond operator `<>`: u
-    - Unbounded wildcard: k
-    - Upper-bounded wildcard: k
-    - Lower-bounded wildcard: k
+  - Class with type arguments: u
+  - Method with type arguments: u
+  - Bounded type arguments: u
+  - Type erasure: h
+  - Type inference: h
+  - Diamond operator `<>`: u
+  - Unbounded wildcard: k
+  - Upper-bounded wildcard: k
+  - Lower-bounded wildcard: k
 - Functional programming
-    - Functional interfaces: e
-    - Lambdas: e
-    - Method references: e
-    - Java Stream API: e
+  - Functional interfaces: e
+  - Lambdas: e
+  - Method references: e
+  - Java Stream API: e
 - Input/Output
-    - `InputStream` and `OutputStream`: u
-    - `try/catch` with resource: e
-    - `Scanner`: e
-    - `ByteArrayOutputStream`: u
-    - `ByteArrayInputStream`: u
-    - `DataOutputStream`: u
-    - `DataInputStream`: u
-    - `OutputStreamWriter`: k
-    - `InputStreamReader`: k
-    - Serialization: u
-    - `BufferedOutputStream`: u
-    - `BufferedInputStream`: u
-    - `BufferedWriter`: u
-    - `BufferedReader`: u
-    - `File`: e
-    - `RandomAccessFile`: u
-    - `FileInputStream`: e
-    - `FileOutputStream`: e
+  - `InputStream` and `OutputStream`: u
+  - `try/catch` with resource: e
+  - `Scanner`: e
+  - `ByteArrayOutputStream`: u
+  - `ByteArrayInputStream`: u
+  - `DataOutputStream`: u
+  - `DataInputStream`: u
+  - `OutputStreamWriter`: k
+  - `InputStreamReader`: k
+  - Serialization: u
+  - `BufferedOutputStream`: u
+  - `BufferedInputStream`: u
+  - `BufferedWriter`: u
+  - `BufferedReader`: u
+  - `File`: e
+  - `RandomAccessFile`: u
+  - `FileInputStream`: e
+  - `FileOutputStream`: e
 - Multithreading
-    - `Thread`: e
-    - `Runnable`: e
-    - `Semaphore`: e
-    - `Lock`: e
-    - Atomic types and operations: e
-    - Monitors: e
-    - `synchronized` methods: e
-    - `synchronized` blocks: e
-    - Synchronized collections: k
-    - Dead locks, race conditions: u
+  - `Thread`: e
+  - `Runnable`: e
+  - `Semaphore`: e
+  - `Lock`: e
+  - Atomic types and operations: e
+  - Monitors: e
+  - `synchronized` methods: e
+  - `synchronized` blocks: e
+  - Synchronized collections: k
+  - Dead locks, race conditions: u
 - Single topics
-    - Recursion: e
-    - Date/Time API: u
-    - Packages: e
+  - Recursion: e
+  - Date/Time API: u
+  - Packages: e
