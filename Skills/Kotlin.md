@@ -1,182 +1,183 @@
 ## Kotlin
+
 - Language
-    - Variables: e
-    - Primitive types: e
-    - Unsigned types: e
-    - Nullable types: e
-    - Non-nullable types: e
-    - `String`: e
-    - `Any`: e
-    - `Unit`: e
-    - Mapping to Java types: h
-    - Arithmetic operators: e
-    - Boolean operators: e
-    - Complex conditions: u
-    - Conditional operators: e
-    - Elvis operator `?:`: e
-    - Safe call opearator `?.`: e
-    - `for` loop: e
-    - `while...do` loop: e
-    - `do...while` loop: e
-    - `forEach{...}`: e
-    - `forEachInIndexed{...}`: u
-    - `Arrays<T>`: e
-    - Primitive arrays: e
-    - Log & Debug: e
-    - Log & Debug: `stdout`: k
-    - Log & Debug: `stderr`: k
-    - Log & Debug: Breakpoints: e
-    - Log & Debug: Step-by-step running: e
-    - Exceptions: e
-    - Errors: e
-    - `try...catch`: e
-    - Nothing type: k
-    - `List`: e
-    - `MutableList`: e
-    - `Set`: e
-    - `MutableSet`: e
-    - `Map`: e
-    - `MutableMap`: e
-    - `Collection`: e
-    - `Iterable`: e
-    - `Ranges`: k
-    - `Sequences`: k
-    - Functions: Arguments: e
-    - Functions: Return type: e
-    - Functions: Function signature: u
-    - Functions: `varargs`: h
-    - Functions: Function overloading: k
-    - Functions: Extension functions: u
-    - Functions: Inline functions: u
-    - Functions: Infix functions: h
-    - Recursion: Recursive functions: e
-    - Recursion: StackOverFlowError: k
-    - Recursion: `Tailrec` functions: h
-    - Constructors: e
-    - Initializers: e
-    - Properties: e
-    - Getters & Setters: e
-    - Methods: e
-    - `this`: e
-    - Objects: e
-    - Companion objects: h
-    - References: u
-    - Mutable & immutable classes: k
-    - Enum classes: u
-    - Class `Any`: u
-    - Operator overloading: h
-    - Data classes: e
-    - Packages: e
-    - Type aliases: h
-    - Import aliases: h
-    - Value classes: k
+  - Variables: e
+  - Primitive types: e
+  - Unsigned types: e
+  - Nullable types: e
+  - Non-nullable types: e
+  - `String`: e
+  - `Any`: e
+  - `Unit`: e
+  - Mapping to Java types: h
+  - Arithmetic operators: e
+  - Boolean operators: e
+  - Complex conditions: u
+  - Conditional operators: e
+  - Elvis operator `?:`: e
+  - Safe call opearator `?.`: e
+  - `for` loop: e
+  - `while...do` loop: e
+  - `do...while` loop: e
+  - `forEach{...}`: e
+  - `forEachInIndexed{...}`: u
+  - `Arrays<T>`: e
+  - Primitive arrays: e
+  - Log & Debug: e
+  - Log & Debug: `stdout`: k
+  - Log & Debug: `stderr`: k
+  - Log & Debug: Breakpoints: e
+  - Log & Debug: Step-by-step running: e
+  - Exceptions: e
+  - Errors: e
+  - `try...catch`: e
+  - Nothing type: k
+  - `List`: e
+  - `MutableList`: e
+  - `Set`: e
+  - `MutableSet`: e
+  - `Map`: e
+  - `MutableMap`: e
+  - `Collection`: e
+  - `Iterable`: e
+  - `Ranges`: k
+  - `Sequences`: k
+  - Functions: Arguments: e
+  - Functions: Return type: e
+  - Functions: Function signature: u
+  - Functions: `varargs`: h
+  - Functions: Function overloading: k
+  - Functions: Extension functions: u
+  - Functions: Inline functions: u
+  - Functions: Infix functions: h
+  - Recursion: Recursive functions: e
+  - Recursion: StackOverFlowError: k
+  - Recursion: `Tailrec` functions: h
+  - Constructors: e
+  - Initializers: e
+  - Properties: e
+  - Getters & Setters: e
+  - Methods: e
+  - `this`: e
+  - Objects: e
+  - Companion objects: h
+  - References: u
+  - Mutable & immutable classes: k
+  - Enum classes: u
+  - Class `Any`: u
+  - Operator overloading: h
+  - Data classes: e
+  - Packages: e
+  - Type aliases: h
+  - Import aliases: h
+  - Value classes: k
 - OOP
-    - Abstract classes: e
-    - Abstract method: e
-    - Abstract property: e
-    - Interface: e
-    - Closed class: u
-    - Open class: u
-    - Open method: u
-    - Open property: u
-    - Nested class: k
-    - Inner class: k
-    - `public`: e
-    - `protected`: e
-    - `internal`: e
-    - `private`: e
-    - Sealed class: u
-    - Sealed interface: u
-    - Unsafe class operator `as`: k
-    - Safe class operator `as?`: k
-    - Type check operators `is` & `!is`: u
-    - Smart cast: k
-    - Delegation: `lazy`: k
-    - Delegation: `observable`: k
-    - Delegation: `vetoable`: k
-    - Delegate to other property: h
-    - Delegate to map collection: h
-    - Custom delegates: h
-    - Delegation pattern: h
+  - Abstract classes: e
+  - Abstract method: e
+  - Abstract property: e
+  - Interface: e
+  - Closed class: u
+  - Open class: u
+  - Open method: u
+  - Open property: u
+  - Nested class: k
+  - Inner class: k
+  - `public`: e
+  - `protected`: e
+  - `internal`: e
+  - `private`: e
+  - Sealed class: u
+  - Sealed interface: u
+  - Unsafe class operator `as`: k
+  - Safe class operator `as?`: k
+  - Type check operators `is` & `!is`: u
+  - Smart cast: k
+  - Delegation: `lazy`: k
+  - Delegation: `observable`: k
+  - Delegation: `vetoable`: k
+  - Delegate to other property: h
+  - Delegate to map collection: h
+  - Custom delegates: h
+  - Delegation pattern: h
 - Generics
-    - Class with type arguments: u
-    - Method with type arguments: u
-    - Type erasure: h
-    - Upper bound: h
-    - Multiple bounds `where`: u
-    - Covariant type args `out`: u
-    - Covariant type args `in`: u
-    - Input projection `in`: u
-    - Output projection `out`: u
-    - Star-projection: h
-    - Reified functions: h
+  - Class with type arguments: u
+  - Method with type arguments: u
+  - Type erasure: h
+  - Upper bound: h
+  - Multiple bounds `where`: u
+  - Covariant type args `out`: u
+  - Covariant type args `in`: u
+  - Input projection `in`: u
+  - Output projection `out`: u
+  - Star-projection: h
+  - Reified functions: h
 - Functional programming
-    - Lambda declaration: u
-    - Lambda instantiation: k
-    - Invoking lambdas: k
-    - Functional Interfaces: u
-    - Callable references: h
-    - `noinline`: h
-    - `crossinline`: h
-    - Scoped functions: `with`:
-    - Scoped functions: `let`: 
-    - Scoped functions: `run`:
-    - Scoped functions: `apply`: 
-    - Scoped functions: `also`:
-    - Scoped functions: `takeif`:
-    - Custom scope functions: 
+  - Lambda declaration: u
+  - Lambda instantiation: k
+  - Invoking lambdas: k
+  - Functional Interfaces: u
+  - Callable references: h
+  - `noinline`: h
+  - `crossinline`: h
+  - Scoped functions: `with`:
+  - Scoped functions: `let`: 
+  - Scoped functions: `run`:
+  - Scoped functions: `apply`: 
+  - Scoped functions: `also`:
+  - Scoped functions: `takeif`:
+  - Custom scope functions: 
 - Input\Output Streams
-    - `readLine`: e
-    - `readIn`: e
-    - `readInOrNull`: e
-    - `Scanner`: e
-    - `ByteArrayOutputStream`: u
-    - `ByteArrayInputStream`: u
-    - `DataOutputStream`: u
-    - `DataInputStream`: u
-    - `use{...}` function: k
-    - `OutputStreamWriter`: k
-    - `InputStreamReader`: k
-    - Serialization: u
-    - `BufferedOutputStream`: u 
-    - `BufferedInputStream`: u
-    - `BufferedReader`: u
-    - `BufferedWriter`: u
-    - `File`: e
-    - `RandomAccessFile`: u
-    - `FileTreeWalk`: h
-    - `FileInputStream`: e
-    - `FileOutputStream`: e
+  - `readLine`: e
+  - `readIn`: e
+  - `readInOrNull`: e
+  - `Scanner`: e
+  - `ByteArrayOutputStream`: u
+  - `ByteArrayInputStream`: u
+  - `DataOutputStream`: u
+  - `DataInputStream`: u
+  - `use{...}` function: k
+  - `OutputStreamWriter`: k
+  - `InputStreamReader`: k
+  - Serialization: u
+  - `BufferedOutputStream`: u 
+  - `BufferedInputStream`: u
+  - `BufferedReader`: u
+  - `BufferedWriter`: u
+  - `File`: e
+  - `RandomAccessFile`: u
+  - `FileTreeWalk`: h
+  - `FileInputStream`: e
+  - `FileOutputStream`: e
 - Async programming
-    - `Thread`: e
-    - `ExecutorServices`
-    - Synchronizations: e
-    - Atomic types: u
-    - Atomic operations: u
-    - Dead locks: u
-    - Race conditions: k
-    - Live locks: h
-    - Starvation: k
-    - Synchronized collections: k
-    - `runBlocking`:
-    - `launch`: 
-    - `async`: u
-    - `suspend`: h
-    - Structures concurrency: k
-    - Coroutine Context: k
-    - `Dispatcher`: h
-    - `Job`: h
-    - `Name`: h
-    - `CorutineExceptionHandler`: k
-    - Coroutine Scope: k
-    - Cancellation & Timeouts:
-    - `withContext{...}` function:
-    - `suspendCancellableCoroutine{...}` function: 
-    - Cold & Hot Flows:
-    - Intermidiate & terminal operators:
-    - `flowOf`:
-    - `flow{...}`:
-    - `callbackFlow{...}`:
-    - Flow cancellation:
-    - Combining multiple flows:
-    - `StateFlow` & `SharedFlow`:
+  - `Thread`: e
+  - `ExecutorServices`:
+  - Synchronizations: e
+  - Atomic types: u
+  - Atomic operations: u
+  - Dead locks: u
+  - Race conditions: k
+  - Live locks: h
+  - Starvation: k
+  - Synchronized collections: k
+  - `runBlocking`:
+  - `launch`: 
+  - `async`: u
+  - `suspend`: h
+  - Structures concurrency: k
+  - Coroutine Context: k
+  - `Dispatcher`: h
+  - `Job`: h
+  - `Name`: h
+  - `CorutineExceptionHandler`: k
+  - Coroutine Scope: k
+  - Cancellation & Timeouts:
+  - `withContext{...}` function:
+  - `suspendCancellableCoroutine{...}` function: 
+  - Cold & Hot Flows:
+  - Intermidiate & terminal operators:
+  - `flowOf`:
+  - `flow{...}`:
+  - `callbackFlow{...}`:
+  - Flow cancellation:
+  - Combining multiple flows:
+  - `StateFlow` & `SharedFlow`
