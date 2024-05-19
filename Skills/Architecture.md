@@ -8,13 +8,13 @@
   - SOLID: e
   - GoF patterns: 
   - CQS
-  - Leaking abstractions: k
-  - Multiparadigm code: e
+  - Leaking abstractions: h
+  - Multiparadigm code: h
   - Contract programming: h
-  - Platform-agnostic: h
-  - Transport-agnostic: h
-  - Framework-agnostic: h
-  - Code coverage: h
+  - Platform-agnostic: 
+  - Transport-agnostic: 
+  - Framework-agnostic: 
+  - Code coverage: 
   - Cohesion: 
   - Coupling: 
   - Cyclomatic complexity:
@@ -47,7 +47,7 @@
   - IDEF1X:
   - UML: e
   - Work breakdown structure: 
-  - Budget estimation: e
+  - Budget estimation: k
   - Distributed systems: k
   - High-intensive computing: h
   - Load balancing: k
@@ -80,12 +80,12 @@
   - CAP theorem: 
   - Single source of truth (SSOT): 
 - Enterprise architecture
-  - Understanding business needs: k
-  - Enterprise strategy: k
-  - Integration with subsystems: k
-  - Enterprise vision: k
-  - Enterprise capabilities: k
-  - Project scope: k
+  - Understanding business needs: h
+  - Enterprise strategy: h
+  - Integration with subsystems: h
+  - Enterprise vision: 
+  - Enterprise capabilities: 
+  - Project scope: 
   - Enterprise service bus: 
   - Service-oriented architecture: u
   - Microservices: u
@@ -93,8 +93,8 @@
   - Service orchestration: 
   - Data warehouse: k
   - Business Intelligence: k
-  - OLAP: h
-  - OLTP: h
+  - OLAP: 
+  - OLTP: 
   - Conways Law: k
   - Quality assurance: k
-  - Engineering Hygiene: h
+  - Engineering Hygiene: 

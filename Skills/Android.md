@@ -2,78 +2,78 @@
 - Android Basics
   - Android Studio: u
   - Android project structure: e
-  - Activity lifecycle: e
-  - Fragments: u
-  - Intents: u
+  - Activity lifecycle: k
+  - Fragments: k
+  - Intents: k
   - Views: e
   - ViewGroups: e
   - Layouts: LinearLayout: u
-  - Layouts: RelativeLayout: u
-  - Layouts: ConstraintLayout: u
-  - Layouts: FrameLayout: u
+  - Layouts: RelativeLayout: k
+  - Layouts: ConstraintLayout: k
+  - Layouts: FrameLayout: k
   - Layouts: TableLayout: k
   - Resources: res/values: e
   - Resources: strings.xml: e
   - Resources: colors.xml: e
   - Resources: styles.xml: e
-  - R class: e
+  - R class: k
 - User Interface (UI)
   - XML layout files: e
   - TextView: e
   - EditText: e
   - Button: e
   - ImageView: e
-  - RecyclerView: k
+  - RecyclerView: h
   - ListView: u
-  - ScrollView: u
-  - CardView: u
-  - AppBar: u
-  - Custom views: u
-  - Material Design components: e
+  - ScrollView: k
+  - CardView: k
+  - AppBar: k
+  - Custom views: k
+  - Material Design components: k
   - Themes and styles: e
   - Animations and transitions: h
 - Intents and Broadcast Receivers
-  - Explicit intents: u
-  - Implicit intents: u
-  - Passing data between activities: u
-  - Starting activities for result: u
-  - LocalBroadcastManager: k
-  - System broadcasts: k
-  - Custom broadcasts: k
+  - Explicit intents: k
+  - Implicit intents: k
+  - Passing data between activities: h
+  - Starting activities for result: h
+  - LocalBroadcastManager: 
+  - System broadcasts: 
+  - Custom broadcasts: 
 - Data Storage
-  - SharedPreferences: e
-  - Internal storage: e
-  - External storage: e
-  - SQLite database: e
+  - SharedPreferences: k
+  - Internal storage: k
+  - External storage: k
+  - SQLite database: u
   - Room persistence library: k
-  - Content providers: u
+  - Content providers: h
 - Networking
   - HttpURLConnection: u
-  - OkHttp: u
-  - Retrofit u
-  - JSON parsing: JSONObject: u
+  - OkHttp: h
+  - Retrofit h
+  - JSON parsing: JSONObject: h
   - JSON parsing: Gson: h
-  - AsyncTask: u
+  - AsyncTask: h
   - Threading: u
-  - Background services: e
+  - Background services: k
 - Services and Background Tasks
   - Service lifecycle: u
   - IntentService: u
   - JobScheduler: k
   - WorkManager: k
-  - BroadcastReceiver: u
+  - BroadcastReceiver: k
   - AlarmManager: k
-  - Foreground services: u
+  - Foreground services: k
 - Permissions
   - Runtime permissions: u
   - Permission groups: u
   - Checking and requesting permissions: u
 - Multimedia
-  - Playing audio: e
-  - Playing video: e
+  - Playing audio: u
+  - Playing video: u
   - Recording audio: k
   - Camera API: k
-  - ExoPlayer: h
+  - ExoPlayer: 
 - Location and Maps
   - Google Maps API: k
   - Location services: k
@@ -99,10 +99,10 @@
   - Mocking with Mockito: u
   - Robolectric: h
 - Jetpack Libraries
-  - ViewModel: e
+  - ViewModel: k
   - LiveData: k
   - Data Binding: k
-  - Navigation component: u
+  - Navigation component: k
   - Paging library: k
   - Room: h
   - CameraX: h

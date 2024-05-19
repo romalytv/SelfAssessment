@@ -6,18 +6,18 @@
   - Migrations: k
   - Schema versioning: 
   - Backup and recovery: u
-  - Database scalability: k
+  - Database scalability: h
   - Relational databases: e
   - Key-value store: e
   - Tuple store: 
-  - Graph databases: e
-  - Object databases: u
-  - Column databases: u
+  - Graph databases: h
+  - Object databases: h
+  - Column databases: h
   - Navigational databases:
   - Hierarchical databases:
   - In-memory databases:
   - Inverted index:
-  - Data control language (DCL): k
+  - Data control language (DCL): h
   - Data definition language (DDL): u
   - Data manipulation language (DML): k
   - Data query language (DQL): k
@@ -42,15 +42,15 @@
   - `DELETE`: e
   - `LIMIT`: u
   - `OFFSET`: u
-  - `ORDER BY`: e
-  - `GROUP BY`: e
+  - `ORDER BY`: k
+  - `GROUP BY`: k
   - `HAVING`: u
-  - `EXISTS`: e
+  - `EXISTS`: k
   - `JOIN`: e
   - `INNER JOIN`: e
   - `LEFT JOIN`: e
   - `RIGHT JOIN`: e
-  - `UNION`: e
+  - `UNION`: k
   - `DISTINCT`: u
   - `WHERE`: e
   - `LIKE`: k
@@ -70,8 +70,8 @@
   - `DENY`: k
   - `EXPLAIN`: k
 - Engines
-  - PostgreSQL: u
-  - Oracle: u
+  - PostgreSQL: k
+  - Oracle: k
   - MySQL: u
   - MariaDB:
   - MS SQL Server:
@@ -81,7 +81,7 @@
   - Memcached: 
   - Riak
   - DB2
-  - SQLite: u
+  - SQLite: k
   - DynamoDB:
   - Firebase: u
 - Data engineering

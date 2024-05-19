@@ -29,8 +29,8 @@
   - Data flow: u
   - Code reuse: e
   - Defensive programming: h
-  - Don't repeat yourself (DRY): k
-  - KISS principle: k
+  - Don't repeat yourself (DRY): h
+  - KISS principle: h
 - Syntax and concepts
   - Value: e
   - Identifier: e
@@ -62,9 +62,9 @@
   - Camel case: e
   - Snake case: e
   - Kebab case: e
-  - Trailing commas: e
-  - Return early: e
-  - Fail-fast: e
+  - Trailing commas: k
+  - Return early: k
+  - Fail-fast: k
 - Types
   - Primitive types: e
   - Reference types: e
@@ -74,8 +74,8 @@
   - Duck typing: e
   - Static typing: e
   - Dynamic typing: e
-  - Nominal typing: e
-  - Structural typing: e
+  - Nominal typing: k
+  - Structural typing: k
   - Explicit typing: k
   - Type inference: k 
   - Covariance: h
@@ -100,8 +100,8 @@
   - Memoize: e
   - Wrapper: k
   - Functor: k
-  - Monad: h
-  - Monoid: h
+  - Monad: 
+  - Monoid: 
   - Generator: h
   - Coroutine: u
 - Data structures
@@ -228,12 +228,12 @@
   - IETF:
   - IANA:
   - IEEE: e
-  - Base64: e
+  - Base64: h
   - ECMA: 
   - ICANN: 
   - ISO: u
   - MIME:
   - OWASP:
   - UTF-8: e
-  - W3C: k
+  - W3C: h
   - ODMG: 
