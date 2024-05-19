@@ -1,0 +1,117 @@
+## Android
+- Android Basics
+  - Android Studio: u
+  - Android project structure: e
+  - Activity lifecycle: e
+  - Fragments: u
+  - Intents: u
+  - Views: e
+  - ViewGroups: e
+  - Layouts: LinearLayout: u
+  - Layouts: RelativeLayout: u
+  - Layouts: ConstraintLayout: u
+  - Layouts: FrameLayout: u
+  - Layouts: TableLayout: k
+  - Resources: res/values: e
+  - Resources: strings.xml: e
+  - Resources: colors.xml: e
+  - Resources: styles.xml: e
+  - R class: e
+- User Interface (UI)
+  - XML layout files: e
+  - TextView: e
+  - EditText: e
+  - Button: e
+  - ImageView: e
+  - RecyclerView: k
+  - ListView: u
+  - ScrollView: u
+  - CardView: u
+  - AppBar: u
+  - Custom views: u
+  - Material Design components: e
+  - Themes and styles: e
+  - Animations and transitions: h
+- Intents and Broadcast Receivers
+  - Explicit intents: u
+  - Implicit intents: u
+  - Passing data between activities: u
+  - Starting activities for result: u
+  - LocalBroadcastManager: k
+  - System broadcasts: k
+  - Custom broadcasts: k
+- Data Storage
+  - SharedPreferences: e
+  - Internal storage: e
+  - External storage: e
+  - SQLite database: e
+  - Room persistence library: k
+  - Content providers: u
+- Networking
+  - HttpURLConnection: u
+  - OkHttp: u
+  - Retrofit u
+  - JSON parsing: JSONObject: u
+  - JSON parsing: Gson: h
+  - AsyncTask: u
+  - Threading: u
+  - Background services: e
+- Services and Background Tasks
+  - Service lifecycle: u
+  - IntentService: u
+  - JobScheduler: k
+  - WorkManager: k
+  - BroadcastReceiver: u
+  - AlarmManager: k
+  - Foreground services: u
+- Permissions
+  - Runtime permissions: u
+  - Permission groups: u
+  - Checking and requesting permissions: u
+- Multimedia
+  - Playing audio: e
+  - Playing video: e
+  - Recording audio: k
+  - Camera API: k
+  - ExoPlayer: h
+- Location and Maps
+  - Google Maps API: k
+  - Location services: k
+  - Geocoding and reverse geocoding: k
+  - Geofencing: h
+- Notifications
+  - Notification channels: k
+  - Building notifications: k
+  - Notification actions: k
+  - Notification styles: k
+  - Heads-up notifications: k
+- Firebase Integration
+  - Firebase Authentication: u
+  - Firebase Realtime Database: u
+  - Cloud Firestore: k
+  - Firebase Cloud Messaging: u
+  - Firebase Analytics: k
+  - Firebase Crashlytics: h
+  - Firebase Storage: k
+- Testing
+  - Unit testing with JUnit: e
+  - UI testing with Espresso: k
+  - Mocking with Mockito: u
+  - Robolectric: h
+- Jetpack Libraries
+  - ViewModel: e
+  - LiveData: k
+  - Data Binding: k
+  - Navigation component: u
+  - Paging library: k
+  - Room: h
+  - CameraX: h
+- Advanced Topics
+  - Architecture components: MVVM: e
+  - Architecture components: MVI k
+  - Architecture components: MVP k
+  - ProGuard and R8: h
+  - Performance optimization: k
+  - App bundles: k
+  - Custom ROMs and rooting: h
+  - Dependency Injection: e
