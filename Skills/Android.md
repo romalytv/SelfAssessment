@@ -1,117 +1,117 @@
 ## Android
 - Android Basics
-  - Android Studio: u
-  - Android project structure: e
-  - Activity lifecycle: k
-  - Fragments: k
-  - Intents: k
-  - Views: e
-  - ViewGroups: e
-  - Layouts: LinearLayout: u
-  - Layouts: RelativeLayout: k
-  - Layouts: ConstraintLayout: k
-  - Layouts: FrameLayout: k
-  - Layouts: TableLayout: k
-  - Resources: res/values: e
-  - Resources: strings.xml: e
-  - Resources: colors.xml: e
-  - Resources: styles.xml: e
-  - R class: k
+  - Android Studio: 🖐️ used
+  - Android project structure: 🙋 explained
+  - Activity lifecycle: 🎓 known
+  - Fragments: 🎓 known
+  - Intents: 🎓 known
+  - Views: 🙋 explained
+  - ViewGroups: 🙋 explained
+  - Layouts: LinearLayout: 🖐️ used
+  - Layouts: RelativeLayout: 🎓 known
+  - Layouts: ConstraintLayout: 🎓 known
+  - Layouts: FrameLayout: 🎓 known
+  - Layouts: TableLayout: 🎓 known
+  - Resources: res/values: 🙋 explained
+  - Resources: strings.xml: 🙋 explained
+  - Resources: colors.xml: 🙋 explained
+  - Resources: styles.xml: 🙋 explained
+  - R class: 🎓 known
 - User Interface (UI)
-  - XML layout files: e
-  - TextView: e
-  - EditText: e
-  - Button: e
-  - ImageView: e
-  - RecyclerView: h
-  - ListView: u
-  - ScrollView: k
-  - CardView: k
-  - AppBar: k
-  - Custom views: k
-  - Material Design components: k
-  - Themes and styles: e
-  - Animations and transitions: h
+  - XML layout files: 🙋 explained
+  - TextView: 🙋 explained
+  - EditText: 🙋 explained
+  - Button: 🙋 explained
+  - ImageView: 🙋 explained
+  - RecyclerView: 👂 heard
+  - ListView: 🖐️ used
+  - ScrollView: 🎓 known
+  - CardView: 🎓 known
+  - AppBar: 🎓 known
+  - Custom views: 🎓 known
+  - Material Design components: 🎓 known
+  - Themes and styles: 🙋 explained
+  - Animations and transitions: 👂 heard
 - Intents and Broadcast Receivers
-  - Explicit intents: k
-  - Implicit intents: k
-  - Passing data between activities: h
-  - Starting activities for result: h
-  - LocalBroadcastManager: 
-  - System broadcasts: 
-  - Custom broadcasts: 
+  - Explicit intents: 🎓 known
+  - Implicit intents: 🎓 known
+  - Passing data between activities: 👂 heard
+  - Starting activities for result: 👂 heard
+  - LocalBroadcastManager
+  - System broadcasts
+  - Custom broadcasts
 - Data Storage
-  - SharedPreferences: k
-  - Internal storage: k
-  - External storage: k
-  - SQLite database: u
-  - Room persistence library: k
-  - Content providers: h
+  - SharedPreferences: 🎓 known
+  - Internal storage: 🎓 known
+  - External storage: 🎓 known
+  - SQLite database: 🖐️ used
+  - Room persistence library: 🎓 known
+  - Content providers: 👂 heard
 - Networking
-  - HttpURLConnection: u
-  - OkHttp: h
-  - Retrofit h
-  - JSON parsing: JSONObject: h
-  - JSON parsing: Gson: h
-  - AsyncTask: h
-  - Threading: u
-  - Background services: k
+  - HttpURLConnection: 🖐️ used
+  - OkHttp: 👂 heard
+  - Retrofit: 👂 heard
+  - JSON parsing: JSONObject: 👂 heard
+  - JSON parsing: Gson: 👂 heard
+  - AsyncTask: 👂 heard
+  - Threading: 🖐️ used
+  - Background services: 🎓 known
 - Services and Background Tasks
-  - Service lifecycle: u
-  - IntentService: u
-  - JobScheduler: k
-  - WorkManager: k
-  - BroadcastReceiver: k
-  - AlarmManager: k
-  - Foreground services: k
+  - Service lifecycle: 🖐️ used
+  - IntentService: 🖐️ used
+  - JobScheduler: 🎓 known
+  - WorkManager: 🎓 known
+  - BroadcastReceiver: 🎓 known
+  - AlarmManager: 🎓 known
+  - Foreground services: 🎓 known
 - Permissions
-  - Runtime permissions: u
-  - Permission groups: u
-  - Checking and requesting permissions: u
+  - Runtime permissions: 🖐️ used
+  - Permission groups: 🖐️ used
+  - Checking and requesting permissions: 🖐️ used
 - Multimedia
-  - Playing audio: u
-  - Playing video: u
-  - Recording audio: k
-  - Camera API: k
-  - ExoPlayer: 
+  - Playing audio: 🖐️ used
+  - Playing video: 🖐️ used
+  - Recording audio: 🎓 known
+  - Camera API: 🎓 known
+  - ExoPlayer
 - Location and Maps
-  - Google Maps API: k
-  - Location services: k
-  - Geocoding and reverse geocoding: k
-  - Geofencing: h
+  - Google Maps API: 🎓 known
+  - Location services: 🎓 known
+  - Geocoding and reverse geocoding: 🎓 known
+  - Geofencing: 👂 heard
 - Notifications
-  - Notification channels: k
-  - Building notifications: k
-  - Notification actions: k
-  - Notification styles: k
-  - Heads-up notifications: k
+  - Notification channels: 🎓 known
+  - Building notifications: 🎓 known
+  - Notification actions: 🎓 known
+  - Notification styles: 🎓 known
+  - Heads-up notifications: 🎓 known
 - Firebase Integration
-  - Firebase Authentication: u
-  - Firebase Realtime Database: u
-  - Cloud Firestore: k
-  - Firebase Cloud Messaging: u
-  - Firebase Analytics: k
-  - Firebase Crashlytics: h
-  - Firebase Storage: k
+  - Firebase Authentication: 🖐️ used
+  - Firebase Realtime Database: 🖐️ used
+  - Cloud Firestore: 🎓 known
+  - Firebase Cloud Messaging: 🖐️ used
+  - Firebase Analytics: 🎓 known
+  - Firebase Crashlytics: 👂 heard
+  - Firebase Storage: 🎓 known
 - Testing
-  - Unit testing with JUnit: e
-  - UI testing with Espresso: k
-  - Mocking with Mockito: u
-  - Robolectric: h
+  - Unit testing with JUnit: 🙋 explained
+  - UI testing with Espresso: 🎓 known
+  - Mocking with Mockito: 🖐️ used
+  - Robolectric: 👂 heard
 - Jetpack Libraries
-  - ViewModel: k
-  - LiveData: k
-  - Data Binding: k
-  - Navigation component: k
-  - Paging library: k
-  - Room: h
-  - CameraX: h
+  - ViewModel: 🎓 known
+  - LiveData: 🎓 known
+  - Data Binding: 🎓 known
+  - Navigation component: 🎓 known
+  - Paging library: 🎓 known
+  - Room: 👂 heard
+  - CameraX: 👂 heard
 - Advanced Topics
-  - Architecture components: MVVM: e
-  - Architecture components: MVI k
-  - Architecture components: MVP k
-  - ProGuard and R8: h
-  - Performance optimization: k
-  - App bundles: k
-  - Custom ROMs and rooting: h
-  - Dependency Injection: e
+  - Architecture components: MVVM: 🙋 explained
+  - Architecture components: MVI: 🎓 known
+  - Architecture components: MVP: 🎓 known
+  - ProGuard and R8: 👂 heard
+  - Performance optimization: 🎓 known
+  - App bundles: 🎓 known
+  - Custom ROMs and rooting: 👂 heard
+  - Dependency Injection: 🙋 explained
